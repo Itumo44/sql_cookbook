@@ -1,0 +1,1 @@
+=ArrayFormula(FILTER(A:A, ISERROR(MATCH(A:A, B:B, 0))))
